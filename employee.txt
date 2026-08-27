@@ -1,5 +1,6 @@
-Employee ID:
-Employee Name:
-Department:
-Designation:
-Salary:
+Employee ID Employee Name Department Designation Salary
+1	    aman	  HR	     Manager     40000 
+2	    rahul	  IT	     developer   50000
+3	    mohit	  accounts   accountant	 40000
+4	    akans	  IT         developer   50000
+5	    nikhil	  HR	     Manager     60000
