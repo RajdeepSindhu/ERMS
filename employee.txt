@@ -4,3 +4,5 @@ Employee ID Employee Name Department Designation Salary
 3	    mohit	  accounts   accountant	 40000
 4	    akans	  IT         developer   50000
 5	    nikhil	  HR	     Manager     60000
+6	    akash	  accounts   accountant  70000
+7	    hari	  IT	     tester	 40000
